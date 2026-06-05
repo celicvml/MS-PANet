@@ -1,6 +1,6 @@
 # MS-PANet
 
-[**论文链接 / MS-PANet: Multi-Scale Spatial Pyramid Attention for Effective Drainage Pipeline Image Dehazing**]([https://your_paper_link_here](https://www.mdpi.com/2313-433X/12/5/189))
+[**论文链接 / MS-PANet: Multi-Scale Spatial Pyramid Attention for Effective Drainage Pipeline Image Dehazing**](https://www.mdpi.com/2313-433X/12/5/189)
 
 
 ## Environment Setup
