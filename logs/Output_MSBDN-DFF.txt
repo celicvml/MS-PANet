@@ -1,0 +1,12 @@
+===>Epoch1 Complete: Avg loss is :0.009407
+
+===>Epoch2 Complete: Avg loss is :0.002548
+
+===>Epoch3 Complete: Avg loss is :0.001333
+
+===>Epoch4 Complete: Avg loss is :0.000898
+
+===>Epoch5 Complete: Avg loss is :0.000694
+
+===>Epoch6 Complete: Avg loss is :0.000543
+

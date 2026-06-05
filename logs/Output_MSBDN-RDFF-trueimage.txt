@@ -1,0 +1,200 @@
+===>Epoch1 Complete: Avg loss is :0.007875
+
+===>Epoch2 Complete: Avg loss is :0.002349
+
+===>Epoch3 Complete: Avg loss is :0.001588
+
+===>Epoch4 Complete: Avg loss is :0.001420
+
+===>Epoch5 Complete: Avg loss is :0.000968
+
+===>Epoch6 Complete: Avg loss is :0.000879
+
+===>Epoch7 Complete: Avg loss is :0.001826
+
+===>Epoch8 Complete: Avg loss is :0.000756
+
+===>Epoch9 Complete: Avg loss is :0.000688
+
+===>Epoch10 Complete: Avg loss is :0.001077
+
+===>Epoch11 Complete: Avg loss is :0.000638
+
+===>Epoch12 Complete: Avg loss is :0.000635
+
+===>Epoch13 Complete: Avg loss is :0.000926
+
+===>Epoch14 Complete: Avg loss is :0.000558
+
+===>Epoch15 Complete: Avg loss is :0.000774
+
+===>Epoch16 Complete: Avg loss is :0.000567
+
+===>Epoch17 Complete: Avg loss is :0.000486
+
+===>Epoch18 Complete: Avg loss is :0.000737
+
+===>Epoch19 Complete: Avg loss is :0.000460
+
+===>Epoch20 Complete: Avg loss is :0.000459
+
+===>Epoch21 Complete: Avg loss is :0.000395
+
+===>Epoch22 Complete: Avg loss is :0.000365
+
+===>Epoch23 Complete: Avg loss is :0.000336
+
+===>Epoch24 Complete: Avg loss is :0.000296
+
+===>Epoch25 Complete: Avg loss is :0.000241
+
+===>Epoch26 Complete: Avg loss is :0.000231
+
+===>Epoch27 Complete: Avg loss is :0.000224
+
+===>Epoch28 Complete: Avg loss is :0.000215
+
+===>Epoch29 Complete: Avg loss is :0.000206
+
+===>Epoch30 Complete: Avg loss is :0.000198
+
+===>Epoch31 Complete: Avg loss is :0.000191
+
+===>Epoch32 Complete: Avg loss is :0.000183
+
+===>Epoch33 Complete: Avg loss is :0.000175
+
+===>Epoch34 Complete: Avg loss is :0.000168
+
+===>Epoch35 Complete: Avg loss is :0.000162
+
+===>Epoch36 Complete: Avg loss is :0.000155
+
+===>Epoch37 Complete: Avg loss is :0.000152
+
+===>Epoch38 Complete: Avg loss is :0.000144
+
+===>Epoch39 Complete: Avg loss is :0.000138
+
+===>Epoch40 Complete: Avg loss is :0.000134
+
+===>Epoch41 Complete: Avg loss is :0.000129
+
+===>Epoch42 Complete: Avg loss is :0.000124
+
+===>Epoch43 Complete: Avg loss is :0.000121
+
+===>Epoch44 Complete: Avg loss is :0.000117
+
+===>Epoch45 Complete: Avg loss is :0.000115
+
+===>Epoch46 Complete: Avg loss is :0.000110
+
+===>Epoch47 Complete: Avg loss is :0.000106
+
+===>Epoch48 Complete: Avg loss is :0.000103
+
+===>Epoch49 Complete: Avg loss is :0.000100
+
+===>Epoch50 Complete: Avg loss is :0.000097
+
+===>Epoch51 Complete: Avg loss is :0.000096
+
+===>Epoch52 Complete: Avg loss is :0.000095
+
+===>Epoch53 Complete: Avg loss is :0.000095
+
+===>Epoch54 Complete: Avg loss is :0.000095
+
+===>Epoch55 Complete: Avg loss is :0.000094
+
+===>Epoch56 Complete: Avg loss is :0.000094
+
+===>Epoch57 Complete: Avg loss is :0.000093
+
+===>Epoch58 Complete: Avg loss is :0.000093
+
+===>Epoch59 Complete: Avg loss is :0.000093
+
+===>Epoch60 Complete: Avg loss is :0.000092
+
+===>Epoch61 Complete: Avg loss is :0.000092
+
+===>Epoch62 Complete: Avg loss is :0.000091
+
+===>Epoch63 Complete: Avg loss is :0.000091
+
+===>Epoch64 Complete: Avg loss is :0.000091
+
+===>Epoch65 Complete: Avg loss is :0.000090
+
+===>Epoch66 Complete: Avg loss is :0.000090
+
+===>Epoch67 Complete: Avg loss is :0.000090
+
+===>Epoch68 Complete: Avg loss is :0.000089
+
+===>Epoch69 Complete: Avg loss is :0.000089
+
+===>Epoch70 Complete: Avg loss is :0.000089
+
+===>Epoch71 Complete: Avg loss is :0.000088
+
+===>Epoch72 Complete: Avg loss is :0.000088
+
+===>Epoch73 Complete: Avg loss is :0.000088
+
+===>Epoch74 Complete: Avg loss is :0.000087
+
+===>Epoch75 Complete: Avg loss is :0.000087
+
+===>Epoch76 Complete: Avg loss is :0.000087
+
+===>Epoch77 Complete: Avg loss is :0.000087
+
+===>Epoch78 Complete: Avg loss is :0.000087
+
+===>Epoch79 Complete: Avg loss is :0.000087
+
+===>Epoch80 Complete: Avg loss is :0.000087
+
+===>Epoch81 Complete: Avg loss is :0.000087
+
+===>Epoch82 Complete: Avg loss is :0.000087
+
+===>Epoch83 Complete: Avg loss is :0.000087
+
+===>Epoch84 Complete: Avg loss is :0.000087
+
+===>Epoch85 Complete: Avg loss is :0.000087
+
+===>Epoch86 Complete: Avg loss is :0.000087
+
+===>Epoch87 Complete: Avg loss is :0.000087
+
+===>Epoch88 Complete: Avg loss is :0.000086
+
+===>Epoch89 Complete: Avg loss is :0.000087
+
+===>Epoch90 Complete: Avg loss is :0.000086
+
+===>Epoch91 Complete: Avg loss is :0.000086
+
+===>Epoch92 Complete: Avg loss is :0.000086
+
+===>Epoch93 Complete: Avg loss is :0.000086
+
+===>Epoch94 Complete: Avg loss is :0.000086
+
+===>Epoch95 Complete: Avg loss is :0.000086
+
+===>Epoch96 Complete: Avg loss is :0.000086
+
+===>Epoch97 Complete: Avg loss is :0.000086
+
+===>Epoch98 Complete: Avg loss is :0.000086
+
+===>Epoch99 Complete: Avg loss is :0.000086
+
+===>Epoch100 Complete: Avg loss is :0.000086
+
